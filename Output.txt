@@ -1,3 +1,5 @@
+Compiled in Visual Studio with 'Debug', without optimizations (Phenom II x4 850)
+
 Radius = 10
 Count of created points: 1000
 
